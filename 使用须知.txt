@@ -1,0 +1,4 @@
+使用须知:
+$mysql_con = @mysqli_connect("localhost","root","xixi0219","register");
+凡是是这一条请替换成自己的账号密码
+使用前请先安装mysql5.7
